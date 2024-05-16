@@ -4,4 +4,4 @@
 
 ## 🔓公開リポジトリ
 
-- 📚[lab_tutorial](https://github.com/t2lab-it/lab_tutorial)：研究室チュートリアル
+- 🐣[lab_tutorial](https://github.com/t2lab-it/lab_tutorial)：研究室チュートリアル
