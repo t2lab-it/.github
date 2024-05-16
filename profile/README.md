@@ -4,9 +4,4 @@
 
 ## 🔓公開リポジトリ
 
-- 📚[研究室チュートリアル](https://github.com/t2lab-it/lab_tutorial)
-
-## 🔒非公開（メンバー限定）リポジトリ
-
-- 📅[ミーティングの議事録](https://github.com/t2lab-it/meeting)
-- 💡[研究テーマとアイデア](https://github.com/t2lab-it/theme)
+- 📚[lab_tutorial](https://github.com/t2lab-it/lab_tutorial)：研究室チュートリアル
