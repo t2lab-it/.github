@@ -5,12 +5,4 @@
 ## 🔓 公開リポジトリ
 
 - 🐣[lab_tutorial](https://github.com/t2lab-it/lab_tutorial)：研究室チュートリアル
-
-## 🔒 非公開リポジトリ
-
-- 🧠theme：研究テーマとアイデア
-- 📝progress：進捗報告
-- 📅meeting：ミーティングの議事録
-- 📊conference：学会の予稿，スライドやポスター
-- 📃paper：雑誌論文
-- 🎓thesis：学位論文，発表会・公聴会スライド
+- 🗄[resource](https://github.com/t2lab-it/resource)：教科書/講義ノート/ウェビナー/ソフトウェアのリスト
