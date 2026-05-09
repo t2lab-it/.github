@@ -4,5 +4,20 @@
 
 ## 🔓公開リポジトリ
 
+### 🔬研究室生活
+
 - 🐣[lab_tutorial](https://github.com/t2lab-it/lab_tutorial)：研究室チュートリアル
 - 🗄️[resource](https://github.com/t2lab-it/resource)：教科書/講義ノート/ウェビナー/ソフトウェアのリスト
+
+## 🧮ソルバ
+
+- 🌊[NSTools.jl](https://github.com/t2lab-it/NSTools.jl)（ゆらぐ）数値流体力学用のユーティリティ
+
+### 📑テンプレート
+
+- 📽️[typst_slide_template](https://github.com/t2lab-it/typst_slide_template)：Typstによるスライド用テンプレート
+
+## 📊プロジェクト
+
+- ℹ️[InformationTheory.jl](https://github.com/t2lab-it/InformationTheory.jl)：情報理論の量を計算するためのシンプルなパッケージ
+- 💰[研究予算ダッシュボード](https://github.com/t2lab-it/grant-dashboard)：研究予算の管理・計画用ダッシュボード
