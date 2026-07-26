@@ -21,3 +21,7 @@
 
 - ℹ️[InformationTheory.jl](https://github.com/t2lab-it/InformationTheory.jl)：情報理論の量を計算するためのシンプルなパッケージ
 - 💰[研究予算ダッシュボード](https://github.com/t2lab-it/grant-dashboard)：研究予算の管理・計画用ダッシュボード
+
+### 講義
+
+- [熱流体力学演習 2026](https://t2lab-it.github.io/thermofluid-exercise-2026/)（[リポジトリ](https://github.com/t2lab-it/thermofluid-exercise-2026)）
